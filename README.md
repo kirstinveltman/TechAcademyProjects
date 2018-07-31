@@ -1,1 +1,2 @@
-# TechAcademyProjects
+# Tech Academy Projects
+
