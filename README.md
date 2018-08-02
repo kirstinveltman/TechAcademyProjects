@@ -18,6 +18,7 @@ Here are some samples of projects I did while at The Tech Academy.
 [Live Project](https://github.com/kirstinveltman/TALiveProject "Live Project")<br />
 [Marvel](https://github.com/kirstinveltman/Marvel "Marvel")<br />
 [Care Car Insurance](https://github.com/kirstinveltman/CarInsurance "Care Car Insurance")<br />
-[Il Pizzavendolo | Pizza &amp; Bistro](https://github.com/kirstinveltman/Pizza_Project "Il Pizzavendolo")
+[Il Pizzavendolo | Pizza &amp; Bistro](https://github.com/kirstinveltman/Pizza_Project "Il Pizzavendolo")<br />
+[SQL Library Project](https://github.com/kirstinveltman/SQL_Lib_Project "SQL Library Project")
 
 You can see other examples of projects I've done at [my github repository](https://github.com/kirstinveltman?tab=repositories).
